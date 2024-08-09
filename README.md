@@ -24,8 +24,6 @@ The following Python libraries are used in the web scraping and analysis process
 - `matplotlib`: For generating the plot.
 - `seaborn`: For enhancing the aesthetics of the plot.
 
-
-
 ### Findings
 
 - **France** is the most frequently mentioned country, followed by **Germany** and **Italy**.
